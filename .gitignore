@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore files ._ created
+* ._
+
+# ignore folders
+* images/favicon_package_v0.16/
