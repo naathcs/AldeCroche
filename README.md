@@ -37,7 +37,9 @@ Client project. Small crochet business needs a Landing page. Create the UI desig
 
 ## My process
 
-*** DOCUMENT PROCESS OF CREATING CODE FOR WEBSITE, FROM SEARCHING FOR APPROPRIATE CODE TO CODING ITSELF ***
+*** ADD THE DOCUMENT PROCESS OF CREATING CODE FOR WEBSITE, FROM SEARCHING FOR APPROPRIATE CODE TO CODING ITSELF ***
+
+I started creating the HTML structure based on the design created on `Canva`. I started created the HTML structure using the logo png only to make sure everything was in its place, then I used the SVG Export extension on Google Chrome to  download the `svg` images for the website. x
 
 ### Built with
 
@@ -52,11 +54,13 @@ Client project. Small crochet business needs a Landing page. Create the UI desig
 
 ### What I learned
 
-*** LEARNED THROUGHOUT THE PROJECT ***
+*** ADD CONTENT LEARNED THROUGHOUT THE PROJECT ***
 
 ### Useful resources
 
 - [FontAwesome](https://fontawesome.com/) - website used for the social media logos used on the buttons.
+- [SVG Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp) - SVG Export extension for Google Chromes to download images for the website.
+- [Canva](https://www.canva.com/) - Website used to create the UI design of the website.
 
 *** ADD MORE NECESSARY CONTENT ***
 
